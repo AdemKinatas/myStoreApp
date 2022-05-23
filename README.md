@@ -28,6 +28,10 @@ I used react native 0.65 version in this project.
 <img style="width: 100%; height:auto;" src="./src/screenShots/Screenshot_1653336571.png" />
 </div>  
 </td>
+</tr>
+</table>
+    <table>
+    <tr>
 <td valign="top" width="33%">
 <div align="center">
 <img style="width: 100%; height:auto;" src="./src/screenShots/Screenshot_1653336576.png" />
